@@ -1,3 +1,3 @@
 # slides repository
 
-- Here I can store all the slides that I present
+- A storage for all my presentations
